@@ -63,7 +63,15 @@
     }
 
     .home .informacoes .titulo{
-        font-size: 25px;
+        font-size: 20px;
+    }
+
+    .home .informacoes p{
+        font-size: 15px;
+    }
+
+    .home .imagem-fundo{
+        min-width: 120%;
     }
 
     .home .informacoes img{
